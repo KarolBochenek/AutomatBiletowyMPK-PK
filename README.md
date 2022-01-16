@@ -1,5 +1,5 @@
 # 1. Automat biletowy MPK
-## Opis zadania - nic nie zmieniałem, przyjmuję w całości propozycję Pana Doktora
+## Opis zadania 
 
 - Automat przechowuje informacje o monetach/banknotach znajdujących się w nim (1, 2, 5, 10, 20, 50gr, 1, 2, 5, 10, 20, 50zł) [dziedziczenie: można napisać uniwersalną klasę PrzechowywaczMonet po której dziedziczyć będzie automat]
 - Okno z listą biletów w różnych cenach (jako przyciski). Wymagane bilety: 20-minutowy, 40-minutowy, 60-minutowy w wariantach normalnym i ulgowym.
