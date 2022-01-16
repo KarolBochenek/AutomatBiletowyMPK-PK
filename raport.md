@@ -21,3 +21,36 @@
 
 ## Github
 https://github.com/KarolBochenek/AutomatBiletowyMPK-PK.git
+
+
+## Istotne fragmenty kodu
+
+### Wyrażenia lambda
+
+1. [Link 1](https://github.com/KarolBochenek/AutomatBiletowyMPK-PK/blob/1fe9eaac1e94ca16dd07649c6ba74f9dd5aa82a9/src/Interfejs.py#L139)
+2. [Link 2](https://github.com/KarolBochenek/AutomatBiletowyMPK-PK/blob/1fe9eaac1e94ca16dd07649c6ba74f9dd5aa82a9/src/Interfejs.py#L152)
+3. [Link 3](https://github.com/KarolBochenek/AutomatBiletowyMPK-PK/blob/1fe9eaac1e94ca16dd07649c6ba74f9dd5aa82a9/src/Interfejs.py#L155)
+
+### List/dictionary comprehensions
+
+1. [Link 1](https://github.com/KarolBochenek/AutomatBiletowyMPK-PK/blob/1fe9eaac1e94ca16dd07649c6ba74f9dd5aa82a9/src/Interfejs.py#L167)
+2. [Link 2](https://github.com/KarolBochenek/AutomatBiletowyMPK-PK/blob/1fe9eaac1e94ca16dd07649c6ba74f9dd5aa82a9/src/Interfejs.py#L170)
+3. [Link 3]()
+
+### Klasy
+
+1. [Link 1](https://github.com/KarolBochenek/AutomatBiletowyMPK-PK/blob/1fe9eaac1e94ca16dd07649c6ba74f9dd5aa82a9/src/PrzechowywaczMonet.py)
+2. [Link 2](https://github.com/KarolBochenek/AutomatBiletowyMPK-PK/blob/1fe9eaac1e94ca16dd07649c6ba74f9dd5aa82a9/src/Automat.py)
+3. [Link 3](https://github.com/KarolBochenek/AutomatBiletowyMPK-PK/blob/1fe9eaac1e94ca16dd07649c6ba74f9dd5aa82a9/src/Interfejs.py#L25)
+
+### Wyjątki
+
+1. [Link 1](https://github.com/KarolBochenek/AutomatBiletowyMPK-PK/blob/1fe9eaac1e94ca16dd07649c6ba74f9dd5aa82a9/exception/NiewlasciwaIloscMonet.py)
+2. [Link 2](https://github.com/KarolBochenek/AutomatBiletowyMPK-PK/blob/1fe9eaac1e94ca16dd07649c6ba74f9dd5aa82a9/exception/BrakWybranegoBiletu.py)
+3. [Link 3](https://github.com/KarolBochenek/AutomatBiletowyMPK-PK/blob/1fe9eaac1e94ca16dd07649c6ba74f9dd5aa82a9/exception/BrakMonetDoWydania.py)
+
+### Moduły
+
+1. [Link 1](https://github.com/KarolBochenek/AutomatBiletowyMPK-PK/blob/1fe9eaac1e94ca16dd07649c6ba74f9dd5aa82a9/src/Interfejs.py)
+2. [Link 2](https://github.com/KarolBochenek/AutomatBiletowyMPK-PK/blob/1fe9eaac1e94ca16dd07649c6ba74f9dd5aa82a9/src/Automat.py)
+3. [Link 3](https://github.com/KarolBochenek/AutomatBiletowyMPK-PK/blob/1fe9eaac1e94ca16dd07649c6ba74f9dd5aa82a9/exception)
