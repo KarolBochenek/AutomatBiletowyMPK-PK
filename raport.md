@@ -10,15 +10,6 @@
     - Brak reszty/może wydać: wyskakuje okienko z informacją o zakupach, wydaje resztę (dolicza wrzucone monety, odlicza wydane jako reszta), wraca do wyboru biletów.
     - Nie może wydać: wyskakuje okienko z napisem "Tylko odliczona kwota" oraz zwraca włożone monety. 
     
-## Testy
-1. Bilet kupiony za odliczoną kwotę - oczekiwany brak reszty.
-2. Bilet kupiony płacąc więcej - oczekiwana reszta.
-3. Bilet kupiony płacąc więcej, automat nie ma jak wydać reszty - oczekiwana informacja o błędzie oraz zwrócenie takiej samej liczby monet o tych samych nominałach, co wrzucone.
-4. Zakup bilety płacąc po 1gr - suma stu monet 1gr ma być równa 1zł (dla floatów suma sto razy 0.01+0.01+...+0.01 nie będzie równa 1.0). Płatności można dokonać za pomocą pętli for w interpreterze.
-5. Zakup dwóch różnych biletów naraz - cena powinna być sumą,
-6. Dodanie biletu, wrzucenie kilku monet, dodanie drugiego biletu, wrzucenie pozostałych monet, zakup za odliczoną kwotę - oczekiwany brak reszty (wrzucone monety nie zerują się po dodaniu biletu).
-7. Próba wrzucenia ujemnej oraz niecałkowitej liczby monet (oczekiwany komunikat o błędzie).
-
 ## Github
 https://github.com/KarolBochenek/AutomatBiletowyMPK-PK.git
 
