@@ -23,7 +23,7 @@ Klasa odpowiadająca za przechowywanie listy monet aktualnie wrzuconych do autom
 #### Metoda [addCoin](https://github.com/KarolBochenek/AutomatBiletowyMPK-PK/blob/8b771da09da3f79f4ac7218483b3b444706ce1e3/src/PrzechowywaczMonet.py#L15)
 Metoda odpowiadająca za dodanie danego biletu lub kilku biletów do listy biletów aktualnie przechowywanych w automacie.
 
-### Metoda [potwierdzIlosc](https://github.com/KarolBochenek/AutomatBiletowyMPK-PK/blob/8b771da09da3f79f4ac7218483b3b444706ce1e3/src/PrzechowywaczMonet.py#L25)
+#### Metoda [potwierdzIlosc](https://github.com/KarolBochenek/AutomatBiletowyMPK-PK/blob/8b771da09da3f79f4ac7218483b3b444706ce1e3/src/PrzechowywaczMonet.py#L25)
 Metoda odpowiedzialna za sprawdzenie poprawności wrzuconej ilości - tzn. czy nie jest ujemna lub niecałkowita.
 
 
